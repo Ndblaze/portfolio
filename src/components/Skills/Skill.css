@@ -1,0 +1,36 @@
+.html::before{
+    width: 70%;
+}
+
+.css::before{
+    width: 70%;
+}
+
+.bootstrap::before{
+    width: 60%;
+}
+
+.javascript::before{
+    width: 80%;
+}
+
+.react::before{
+    width: 70%;
+}
+
+.node::before{
+    width: 50%;
+}
+
+.python::before{
+    width: 30%;
+}
+
+.java::before{
+    width: 30%;
+}
+
+
+.firebase::before{
+    width: 70%;
+}
