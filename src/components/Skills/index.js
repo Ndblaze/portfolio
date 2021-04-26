@@ -112,6 +112,10 @@ const SkillWrapper = styled.div`
         padding: 20px 50px 60px 50px;   
    }
 
+   @media screen and (max-width: 768px){
+        padding: 10px 10px 20px 10px;
+    }
+
     h1{
         text-align: center;
         margin: 0;

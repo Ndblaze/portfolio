@@ -62,6 +62,10 @@ const ContactWrapper = styled.div`
         padding: 20px 60px 60px 60px;
     }
 
+    @media screen and (max-width: 768px){
+        padding: 10px 10px 20px 10px;
+    }
+
     h1{
         text-align: center;
         margin: 0;
@@ -95,6 +99,7 @@ const Content = styled.div`
        grid-template-columns: 1fr ;
        margin-top: 0;
    }
+
 `
 
 

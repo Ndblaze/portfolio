@@ -1,5 +1,8 @@
 import Robotman from '../../images/Robotman.jpg'
-import Robot from '../../images/Nd.jpg'
+import stalker from '../../images/stalker.jpg'
+import netflix from '../../images/netflix.jpg'
+import slack from '../../images/slack.png'
+
 
 
 export const projs = [
@@ -8,15 +11,15 @@ export const projs = [
         Name: 'Robotman'
     },
     {
-        image: Robot,
+        image: slack,
         Name: 'Slact-clone'
     },
     {
-        image: '',
+        image: netflix,
         Name: 'Netflix-Clone'
     },
     {
-        image: '',
+        image: stalker,
         Name: 'Stalker'
     },
     {

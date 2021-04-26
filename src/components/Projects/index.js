@@ -53,6 +53,10 @@ const ProjectWrapper = styled.div`
     @media screen and (max-width: 1300px){
         padding: 10px 50px 50px 50px;
     }
+
+    @media screen and (max-width: 768px){
+        padding: 10px 0px 20px 0px;
+    }
 `
 
 const Header = styled.h1`
@@ -84,7 +88,7 @@ const Projects = styled.div`
       }
 
       @media screen and (max-width: 700px){
-        grid-template-columns: 350px;
+        grid-template-columns: 320px;
         align-items:center;
         justify-content: center;
       }

@@ -69,6 +69,10 @@ const HomeWrapper = styled.div`
         padding: 0 50px;  
     }
 
+    @media screen and (max-width: 768px){
+        padding: 0 20px;
+    }
+
 `
 
 const Left = styled.div`

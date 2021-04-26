@@ -66,6 +66,11 @@ const AboutWrapper = styled.div`
         grid-template-columns: 1fr;
         padding: 10px 30px; 
     }
+
+    @media screen and (max-width: 1000px){
+        grid-template-columns: 1fr;
+        padding: 10px 10px; 
+    }
     
 `
 
