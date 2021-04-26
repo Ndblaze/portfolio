@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e2c38a3b.chunk.css",
-    "main.js": "/portfolio/static/js/main.1b06b61e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1b06b61e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.f0b013da.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f0b013da.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6dd1eba5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6dd1eba5.js.map",
     "static/js/2.583a72d7.chunk.js": "/portfolio/static/js/2.583a72d7.chunk.js",
@@ -13,12 +13,15 @@
     "static/css/main.e2c38a3b.chunk.css.map": "/portfolio/static/css/main.e2c38a3b.chunk.css.map",
     "static/js/2.583a72d7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.583a72d7.chunk.js.LICENSE.txt",
     "static/media/Nd.66bdc38d.jpg": "/portfolio/static/media/Nd.66bdc38d.jpg",
-    "static/media/Robotman.f2268f7a.jpg": "/portfolio/static/media/Robotman.f2268f7a.jpg"
+    "static/media/Robotman.f2268f7a.jpg": "/portfolio/static/media/Robotman.f2268f7a.jpg",
+    "static/media/netflix.d151d3b5.jpg": "/portfolio/static/media/netflix.d151d3b5.jpg",
+    "static/media/slack.c09d1d68.png": "/portfolio/static/media/slack.c09d1d68.png",
+    "static/media/stalker.b3e8143f.jpg": "/portfolio/static/media/stalker.b3e8143f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6dd1eba5.js",
     "static/js/2.583a72d7.chunk.js",
     "static/css/main.e2c38a3b.chunk.css",
-    "static/js/main.1b06b61e.chunk.js"
+    "static/js/main.f0b013da.chunk.js"
   ]
 }
